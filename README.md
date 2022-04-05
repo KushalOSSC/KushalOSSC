@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KushalOSSC
-- 👀 I’m interested in ... WebDev, ML, Networking, DevOps
+- 👀 I’m interested in ... WebDev, ML, Networking, DevOps and IoT
 - 🌱 I’m currently learning ... Django/WebDev
 - 💞️ I’m looking to collaborate on ... any python project
 - 📫 How to reach me ... github
